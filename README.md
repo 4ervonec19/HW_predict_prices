@@ -16,7 +16,7 @@ And **cathegorical**:
 * ***ets.***
 
 Bunch of heuristics and data analysis techniques were applied and final score (***MAE***) was achieved. <br><br>
-Different model were tried including **Random Forest Regressor**, **Gradient Boosting Regressor**. <br><br>
+Different models were launched including **Random Forest Regressor**, **Gradient Boosting Regressor (XGBoost)**. <br><br>
 Also simple **tensorflow.keras perceptron** was tested.
 
 ## All implementation & discussion you may find [right here](final_notebook\\predict_prices_notebook_4th(final)_upgrade.ipynb)!
