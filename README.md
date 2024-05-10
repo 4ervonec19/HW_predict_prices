@@ -21,4 +21,8 @@ Also simple **tensorflow.keras perceptron** was tested.
 
 ## All implementation & discussion you may find [right here](final_notebook/predict_prices_notebook_4th(final)_upgrade.ipynb)!
 
+## Ermine for the vibe:
+
+<img src="final_notebook/tools/ermine.jpg" width="200">
+
 
