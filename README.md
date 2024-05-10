@@ -23,6 +23,6 @@ Also simple **tensorflow.keras perceptron** was tested.
 
 ## Ermine for the vibe:
 
-<img src="final_notebook/tools/ermine.jpg" width="400">
+<img src="final_notebook/tools/ermine.jpg" width="300">
 
 
